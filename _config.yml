@@ -1,3 +1,7 @@
-title: LevelUp — Privacy Policy
-description: Privacy policy for the LevelUp Parental Controls app
+title: LevelUp — Legal
+description: Privacy policy and terms of service for the LevelUp Parental Controls app
 theme: minima
+
+header_pages:
+  - index.md
+  - terms.md

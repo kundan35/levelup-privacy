@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
+nav_order: 1
 ---
 
 # LevelUp Parental Controls — Privacy Policy
