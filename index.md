@@ -13,11 +13,11 @@ nav_order: 1
 
 ## 1. Who We Are
 
-LevelUp is an independent application developed and operated by **Kundan** ("I," "me," or "my"), an individual developer. LevelUp is a parental-control and digital-wellness application designed to help families establish healthy screen habits. The app is installed on a child's Android device and managed by a parent or legal guardian ("Parent") through a paired account.
+Kindred is an independent application developed and operated by **Kundan** ("I," "me," or "my"), an individual developer. Kindred is a parental-control and digital-wellness application designed to help families establish healthy screen habits. The app is installed on a child's Android device and managed by a parent or legal guardian ("Parent") through a paired account.
 
 **Contact:**
 Developer: Kundan
-Email: [your-email@example.com]
+Email: kundan06335@gmail.com
 Country of residence: [Your country]
 
 ---
@@ -26,8 +26,8 @@ Country of residence: [Your country]
 
 This policy applies to:
 
-- The LevelUp Android application installed on a child's device
-- The LevelUp parent dashboard (Android / iOS / Desktop)
+- The Kindred Android application installed on a child's device
+- The Kindred parent dashboard (Android / iOS / Desktop)
 - All data processed through our backend (Supabase) and cloud services
 
 This policy covers all users globally. Sections 10 and 11 provide additional disclosures required by the **Children's Online Privacy Protection Act (COPPA)** and **General Data Protection Regulation (GDPR)**, respectively.
@@ -36,7 +36,7 @@ This policy covers all users globally. Sections 10 and 11 provide additional dis
 
 ## 3. Who We Collect Data About
 
-LevelUp processes data about two categories of people:
+Kindred processes data about two categories of people:
 
 | Role | Description |
 |------|-------------|
@@ -95,7 +95,7 @@ Location data is transmitted to our servers only when a network connection is av
 
 ### 4.5 Communication Monitoring
 
-LevelUp monitors on-device communications to detect contact with unapproved parties:
+Kindred monitors on-device communications to detect contact with unapproved parties:
 
 | Data | How Collected | Retention |
 |------|--------------|-----------|
@@ -192,13 +192,13 @@ Regardless of your location, you may at any time:
 - **Export** your data in a portable format
 - **Withdraw consent** for any optional data collection
 
-To exercise these rights, email **[your-email@example.com]** with the subject line "Privacy Request." We will respond within **30 days**.
+To exercise these rights, email **kundan06335@gmail.com** with the subject line "Privacy Request." We will respond within **30 days**.
 
 ---
 
 ## 10. COPPA Disclosure (United States)
 
-LevelUp is designed to be installed **by parents on children's devices**. We take our obligations under the **Children's Online Privacy Protection Act (COPPA), 15 U.S.C. § 6501 et seq.,** and the COPPA Rule (16 C.F.R. Part 312) seriously.
+Kindred is designed to be installed **by parents on children's devices**. We take our obligations under the **Children's Online Privacy Protection Act (COPPA), 15 U.S.C. § 6501 et seq.,** and the COPPA Rule (16 C.F.R. Part 312) seriously.
 
 ### 10.1 Verifiable Parental Consent
 
@@ -221,7 +221,7 @@ LevelUp is designed to be installed **by parents on children's devices**. We tak
 
 Parents may at any time:
 1. **Review** personal information collected from their child.
-2. **Request deletion** of all data collected from their child by contacting **[your-email@example.com]**.
+2. **Request deletion** of all data collected from their child by contacting **kundan06335@gmail.com**.
 3. **Refuse further collection** by deleting the child profile, which immediately stops all monitoring.
 
 We will not condition a child's participation in the app on disclosure of more personal information than is reasonably necessary to provide the service.
@@ -240,7 +240,7 @@ We will not condition a child's participation in the app on disclosure of more p
 ### 11.1 Data Controller
 
 For users in the EEA, UK, and Switzerland, the data controller is:
-**Kundan** (individual developer) · [your-email@example.com]
+**Kundan** (individual developer) · kundan06335@gmail.com
 
 ### 11.2 Legal Bases for Processing
 
@@ -257,7 +257,7 @@ For processing special-category data (which may arise incidentally in communicat
 
 | Right | How to Exercise |
 |-------|----------------|
-| **Access** (Art. 15) | Email [your-email@example.com] |
+| **Access** (Art. 15) | Email kundan06335@gmail.com |
 | **Rectification** (Art. 16) | Edit in app settings or email us |
 | **Erasure / Right to be Forgotten** (Art. 17) | Delete account in app or email us |
 | **Restriction of Processing** (Art. 18) | Email us |
@@ -324,7 +324,7 @@ Registered Parents will be notified by email and in-app notification at least **
 ## 16. Contact
 
 **Developer:** Kundan
-**Email:** [your-email@example.com]
+**Email:** kundan06335@gmail.com
 **Response time:** 5 business days for acknowledgement; 30 days for resolution
 
 If you believe your data has not been handled appropriately, you may also contact your local data-protection authority.
@@ -333,7 +333,7 @@ If you believe your data has not been handled appropriately, you may also contac
 
 ## 17. Note on Solo Developer Status
 
-LevelUp is built and maintained by a single independent developer. There is no company, employees, or investors. All data handling described in this policy is performed solely by the developer and the third-party processors named in §6 (Supabase, Firebase). Your privacy rights are exercised directly with me at the contact address above.
+Kindred is built and maintained by a single independent developer. There is no company, employees, or investors. All data handling described in this policy is performed solely by the developer and the third-party processors named in §6 (Supabase, Firebase). Your privacy rights are exercised directly with me at the contact address above.
 
 ---
 

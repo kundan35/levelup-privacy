@@ -10,33 +10,33 @@ title: Terms of Service
 
 ---
 
-Please read these Terms of Service ("Terms") carefully before using the LevelUp app. By creating an account or installing LevelUp on any device, you agree to be bound by these Terms. If you do not agree, do not use the app.
+Please read these Terms of Service ("Terms") carefully before using the Kindred app. By creating an account or installing Kindred on any device, you agree to be bound by these Terms. If you do not agree, do not use the app.
 
 ---
 
 ## 1. Who You Are Contracting With
 
-LevelUp is developed and operated by **Kundan**, an individual developer ("I," "me," or "my"). There is no company behind this app. All obligations under these Terms are mine personally.
+Kindred is developed and operated by **Kundan**, an individual developer ("I," "me," or "my"). There is no company behind this app. All obligations under these Terms are mine personally.
 
-**Contact:** [your-email@example.com]
+**Contact:** kundan06335@gmail.com
 
 ---
 
-## 2. What LevelUp Does
+## 2. What Kindred Does
 
-LevelUp is a parental-control and digital-wellness application. It lets a parent or legal guardian ("Parent") install monitoring and control software on a child's Android device ("Child Device") and review activity from a parent dashboard.
+Kindred is a parental-control and digital-wellness application. It lets a parent or legal guardian ("Parent") install monitoring and control software on a child's Android device ("Child Device") and review activity from a parent dashboard.
 
 Features include, but are not limited to: app blocking, screen time limits, GPS location tracking, geofencing, communication monitoring (calls, SMS, WhatsApp), YouTube activity monitoring, bedtime scheduling, exam mode, and a gamification reward system for children.
 
 ---
 
-## 3. Who May Use LevelUp
+## 3. Who May Use Kindred
 
-**Parents:** You must be at least 18 years old (or the age of majority in your jurisdiction, whichever is higher) to create a LevelUp account. By registering, you confirm you meet this requirement.
+**Parents:** You must be at least 18 years old (or the age of majority in your jurisdiction, whichever is higher) to create a Kindred account. By registering, you confirm you meet this requirement.
 
-**Children:** Children do not register for LevelUp. A child uses the app on their device only after a Parent sets up a child profile. By installing LevelUp on a child's device, the Parent confirms they are the child's parent or legal guardian and have the authority to consent to monitoring on the child's behalf.
+**Children:** Children do not register for Kindred. A child uses the app on their device only after a Parent sets up a child profile. By installing Kindred on a child's device, the Parent confirms they are the child's parent or legal guardian and have the authority to consent to monitoring on the child's behalf.
 
-LevelUp is **not** intended to be used on devices belonging to adults without their knowledge or consent. Installing LevelUp on another adult's device without their consent may be illegal in your jurisdiction. I am not responsible for any unlawful use.
+Kindred is **not** intended to be used on devices belonging to adults without their knowledge or consent. Installing Kindred on another adult's device without their consent may be illegal in your jurisdiction. I am not responsible for any unlawful use.
 
 ---
 
@@ -45,32 +45,32 @@ LevelUp is **not** intended to be used on devices belonging to adults without th
 - You must provide a valid email address and a password to create a Parent account.
 - You are responsible for maintaining the confidentiality of your account credentials.
 - You are responsible for all activity that occurs under your account.
-- You must notify me immediately at [your-email@example.com] if you suspect unauthorised access to your account.
+- You must notify me immediately at kundan06335@gmail.com if you suspect unauthorised access to your account.
 - I reserve the right to terminate accounts that provide false information or violate these Terms.
 
 ---
 
 ## 5. Parent Responsibilities
 
-As a Parent using LevelUp, you agree to:
+As a Parent using Kindred, you agree to:
 
 1. **Obtain appropriate consent.** You are responsible for ensuring that installing and running monitoring software on your child's device is lawful in your jurisdiction. Laws on parental monitoring vary by country and sometimes by the child's age.
 
-2. **Inform your child.** LevelUp displays a persistent notification on the child's device indicating that monitoring is active. You agree not to disable or circumvent this notification. Being transparent with your child about monitoring is your responsibility and, in some jurisdictions, a legal requirement.
+2. **Inform your child.** Kindred displays a persistent notification on the child's device indicating that monitoring is active. You agree not to disable or circumvent this notification. Being transparent with your child about monitoring is your responsibility and, in some jurisdictions, a legal requirement.
 
 3. **Use monitoring data responsibly.** Data collected about your child is for your family's safety and wellness only. You agree not to share, publish, or use it for any purpose that could harm your child.
 
 4. **Keep parental credentials secure.** You are responsible for ensuring your child cannot access the parent dashboard.
 
-5. **Review and configure appropriately.** You are responsible for configuring LevelUp settings in a manner appropriate to your child's age and maturity.
+5. **Review and configure appropriately.** You are responsible for configuring Kindred settings in a manner appropriate to your child's age and maturity.
 
 ---
 
 ## 6. Acceptable Use
 
-You agree to use LevelUp only for lawful purposes and only in the manner described in these Terms. You agree **not** to:
+You agree to use Kindred only for lawful purposes and only in the manner described in these Terms. You agree **not** to:
 
-- Install LevelUp on any device belonging to a person who is not your minor child, without that person's explicit informed consent
+- Install Kindred on any device belonging to a person who is not your minor child, without that person's explicit informed consent
 - Attempt to reverse-engineer, decompile, or extract source code from the app
 - Attempt to bypass, disable, or interfere with any security or monitoring feature of the app
 - Use the app to stalk, harass, or surveil any person in a manner that is illegal or harmful
@@ -82,13 +82,13 @@ You agree to use LevelUp only for lawful purposes and only in the manner describ
 
 ## 7. Intellectual Property
 
-LevelUp, including its code, design, graphics, and content, is owned by me (Kundan) and is protected by applicable intellectual property laws. These Terms do not grant you any rights to the LevelUp brand, logo, or underlying technology beyond the limited right to use the app as described herein.
+Kindred, including its code, design, graphics, and content, is owned by me (Kundan) and is protected by applicable intellectual property laws. These Terms do not grant you any rights to the Kindred brand, logo, or underlying technology beyond the limited right to use the app as described herein.
 
 ---
 
 ## 8. Third-Party Services
 
-LevelUp integrates with third-party services including Supabase (database and authentication) and Google Firebase (crash reporting and push notifications). Your use of these services is also subject to their respective terms:
+Kindred integrates with third-party services including Supabase (database and authentication) and Google Firebase (crash reporting and push notifications). Your use of these services is also subject to their respective terms:
 
 - [Supabase Terms of Service](https://supabase.com/terms)
 - [Google Terms of Service](https://policies.google.com/terms)
@@ -99,9 +99,9 @@ I am not responsible for the practices or content of third-party services.
 
 ## 9. Pricing and Payments
 
-*(Update this section based on whether LevelUp is free, freemium, or subscription-based.)*
+*(Update this section based on whether Kindred is free, freemium, or subscription-based.)*
 
-**If the app is currently free:** LevelUp is provided free of charge during its current release period. I reserve the right to introduce paid features or a subscription model in the future. You will be notified at least 30 days before any previously free feature becomes paid.
+**If the app is currently free:** Kindred is provided free of charge during its current release period. I reserve the right to introduce paid features or a subscription model in the future. You will be notified at least 30 days before any previously free feature becomes paid.
 
 **If the app uses in-app purchases or subscriptions:** Payments are processed through Google Play. All billing terms, refund rights, and subscription management are governed by Google Play's billing policies. I do not handle payment information directly. Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period through your Google Play account settings.
 
@@ -109,14 +109,14 @@ I am not responsible for the practices or content of third-party services.
 
 ## 10. Disclaimer of Warranties
 
-LevelUp is provided **"as is"** and **"as available"** without any warranty of any kind, express or implied, including but not limited to:
+Kindred is provided **"as is"** and **"as available"** without any warranty of any kind, express or implied, including but not limited to:
 
 - Warranties of merchantability or fitness for a particular purpose
 - Warranties that the app will be uninterrupted, error-free, or free of viruses
 - Warranties that monitoring will detect all concerning activity
 - Warranties of accuracy or completeness of any monitoring data
 
-**LevelUp is a tool to assist parents — it is not a substitute for parental supervision.** No monitoring tool can guarantee your child's safety, and I make no such guarantee.
+**Kindred is a tool to assist parents — it is not a substitute for parental supervision.** No monitoring tool can guarantee your child's safety, and I make no such guarantee.
 
 ---
 
@@ -126,11 +126,11 @@ To the maximum extent permitted by applicable law, I shall not be liable for:
 
 - Any indirect, incidental, special, consequential, or punitive damages
 - Loss of data, revenue, goodwill, or profits
-- Any harm arising from your child's online activity that LevelUp did not detect or prevent
+- Any harm arising from your child's online activity that Kindred did not detect or prevent
 - Any harm resulting from technical failures, app downtime, or data loss
-- Any damages arising from your use of, or inability to use, LevelUp
+- Any damages arising from your use of, or inability to use, Kindred
 
-**My total cumulative liability to you for any claims arising under these Terms shall not exceed the amount you paid for LevelUp in the 12 months preceding the claim, or USD $50, whichever is greater.**
+**My total cumulative liability to you for any claims arising under these Terms shall not exceed the amount you paid for Kindred in the 12 months preceding the claim, or USD $50, whichever is greater.**
 
 Some jurisdictions do not allow the exclusion of certain warranties or the limitation of certain damages. In those jurisdictions, these limitations apply only to the extent permitted by law.
 
@@ -141,24 +141,24 @@ Some jurisdictions do not allow the exclusion of certain warranties or the limit
 You agree to indemnify and hold harmless Kundan from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable legal fees) arising out of or relating to:
 
 - Your violation of these Terms
-- Your use of LevelUp in a manner that is unlawful or harms a third party
+- Your use of Kindred in a manner that is unlawful or harms a third party
 - Any claim by a third party (including your child, when an adult) relating to your use of monitoring features
 
 ---
 
 ## 13. Privacy
 
-Your use of LevelUp is also governed by our [Privacy Policy](./index.md), which is incorporated into these Terms by reference. By agreeing to these Terms, you also agree to the Privacy Policy.
+Your use of Kindred is also governed by our [Privacy Policy](./index.md), which is incorporated into these Terms by reference. By agreeing to these Terms, you also agree to the Privacy Policy.
 
 ---
 
 ## 14. Termination
 
-**By you:** You may stop using LevelUp at any time by uninstalling the app and deleting your account through the app settings or by contacting me at [your-email@example.com].
+**By you:** You may stop using Kindred at any time by uninstalling the app and deleting your account through the app settings or by contacting me at kundan06335@gmail.com.
 
-**By me:** I may suspend or terminate your access to LevelUp at any time, with or without notice, if I believe you have violated these Terms, if required by law, or if I discontinue the service. I will endeavour to give reasonable notice before discontinuing the service entirely.
+**By me:** I may suspend or terminate your access to Kindred at any time, with or without notice, if I believe you have violated these Terms, if required by law, or if I discontinue the service. I will endeavour to give reasonable notice before discontinuing the service entirely.
 
-**Effect of termination:** Upon termination, your right to use LevelUp ceases immediately. Sections 7, 10, 11, 12, 15, and 16 survive termination.
+**Effect of termination:** Upon termination, your right to use Kindred ceases immediately. Sections 7, 10, 11, 12, 15, and 16 survive termination.
 
 ---
 
@@ -172,7 +172,7 @@ If you are a consumer in the EEA or UK, you may also have the right to bring pro
 
 ## 16. Dispute Resolution
 
-Before filing any formal legal claim, I ask that you contact me at [your-email@example.com] to try to resolve the issue informally. I will make a good-faith effort to respond within 14 days.
+Before filing any formal legal claim, I ask that you contact me at kundan06335@gmail.com to try to resolve the issue informally. I will make a good-faith effort to respond within 14 days.
 
 For users in the EU: The European Commission provides an [Online Dispute Resolution (ODR) platform](https://ec.europa.eu/consumers/odr/) for disputes with online service providers.
 
@@ -180,22 +180,22 @@ For users in the EU: The European Commission provides an [Online Dispute Resolut
 
 ## 17. Changes to These Terms
 
-I may update these Terms from time to time. If I make material changes, I will notify you by email and in-app notification at least **30 days** before the new Terms take effect. Continued use of LevelUp after the effective date constitutes your acceptance of the revised Terms.
+I may update these Terms from time to time. If I make material changes, I will notify you by email and in-app notification at least **30 days** before the new Terms take effect. Continued use of Kindred after the effective date constitutes your acceptance of the revised Terms.
 
-If you do not agree to the revised Terms, you must stop using LevelUp and delete your account before the effective date.
+If you do not agree to the revised Terms, you must stop using Kindred and delete your account before the effective date.
 
 ---
 
 ## 18. Severability and Entire Agreement
 
-If any provision of these Terms is found to be unenforceable, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will remain in full force. These Terms, together with the Privacy Policy, constitute the entire agreement between you and me regarding LevelUp and supersede any prior agreements.
+If any provision of these Terms is found to be unenforceable, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will remain in full force. These Terms, together with the Privacy Policy, constitute the entire agreement between you and me regarding Kindred and supersede any prior agreements.
 
 ---
 
 ## 19. Contact
 
 **Developer:** Kundan
-**Email:** [your-email@example.com]
+**Email:** kundan06335@gmail.com
 **Response time:** 5 business days
 
 ---

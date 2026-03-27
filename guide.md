@@ -219,7 +219,7 @@ Kindred reads incoming notification previews on the child's device. It does not 
 
 ## Contact Support
 
-- **Email:** support@kindred.app
+- **Email:** kundan06335@gmail.com
 - **WhatsApp:** +91 70195 66348
 - **In-app:** Settings → Help & Support → Need Assistance?
 
