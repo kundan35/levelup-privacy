@@ -4,7 +4,7 @@ title: User Guide
 nav_order: 3
 ---
 
-# Kindred Sanctuary — User Guide
+# Vela Family — User Guide
 
 **Version:** 1.0
 **Last Updated:** March 2026
@@ -15,7 +15,7 @@ nav_order: 3
 
 ### Step 1 — Create a Parent Account
 
-1. Download **Kindred Sanctuary** from the Google Play Store on your phone.
+1. Download **Vela Family** from the Google Play Store on your phone.
 2. Open the app and tap **Register**.
 3. Enter your email address and create a password.
 4. Verify your email (check your inbox for a confirmation link).
@@ -25,7 +25,7 @@ nav_order: 3
 
 ### Step 2 — Set Up Your Child's Device
 
-1. Install **Kindred Sanctuary** on your child's Android phone.
+1. Install **Vela Family** on your child's Android phone.
 2. On the child's device, tap **"Using as a Kid?"** on the login screen.
 3. Enter your **parent email address** — the app will find your family account.
 4. Choose a **4-digit PIN** your child will use to log in.
@@ -46,16 +46,16 @@ These three permissions are required for the app to work:
 ### How to Grant Each Permission
 
 **Location (Always Allow)**
-1. Open Android **Settings → Apps → Kindred → Permissions → Location**
+1. Open Android **Settings → Apps → Vela → Permissions → Location**
 2. Select **"Allow all the time"**
 
 **Usage Access**
 1. Open Android **Settings → Apps → Special app access → Usage access**
-2. Find **Kindred** and toggle it **On**
+2. Find **Vela** and toggle it **On**
 
 **Overlay**
 1. Open Android **Settings → Apps → Special app access → Display over other apps**
-2. Find **Kindred** and toggle it **On**
+2. Find **Vela** and toggle it **On**
 
 ---
 
@@ -166,7 +166,7 @@ Open any child's detail screen and tap **Send Praise** to instantly award bonus 
 
 ## Notification Monitoring
 
-Kindred reads **notification previews** from WhatsApp and other social apps. It does not access full message history — only the notification text Android makes available.
+Vela reads **notification previews** from WhatsApp and other social apps. It does not access full message history — only the notification text Android makes available.
 
 Flagged messages from unknown contacts appear in the **Alert Inbox**.
 
@@ -201,19 +201,19 @@ Manage your subscription via **Settings → Subscription** or through your Googl
 ## Frequently Asked Questions
 
 **Q: Can my child uninstall the app?**
-No. Kindred activates Device Admin on the child's device, which prevents uninstallation without your PIN.
+No. Vela activates Device Admin on the child's device, which prevents uninstallation without your PIN.
 
 **Q: Why is location not updating?**
-Ensure "Always" location permission is granted: Settings → Apps → Kindred → Permissions → Location → Allow all the time.
+Ensure "Always" location permission is granted: Settings → Apps → Vela → Permissions → Location → Allow all the time.
 
 **Q: The app blocker isn't working — what should I do?**
-Check that Usage Access permission is granted: Settings → Apps → Special app access → Usage access → Kindred → On.
+Check that Usage Access permission is granted: Settings → Apps → Special app access → Usage access → Vela → On.
 
 **Q: How do I cancel my subscription?**
-Google Play → your profile → Payments & subscriptions → Subscriptions → Kindred Sanctuary → Cancel.
+Google Play → your profile → Payments & subscriptions → Subscriptions → Vela Family → Cancel.
 
 **Q: How does social monitoring work?**
-Kindred reads incoming notification previews on the child's device. It does not read full message history.
+Vela reads incoming notification previews on the child's device. It does not read full message history.
 
 ---
 

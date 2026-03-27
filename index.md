@@ -4,7 +4,7 @@ title: Privacy Policy
 nav_order: 1
 ---
 
-# Kindred Sanctuary — Privacy Policy
+# Vela Family — Privacy Policy
 
 **Effective Date:** March 9, 2026
 **Last Updated:** March 9, 2026
@@ -13,7 +13,7 @@ nav_order: 1
 
 ## 1. Who We Are
 
-Kindred is an independent application developed and operated by **Kundan** ("I," "me," or "my"), an individual developer. Kindred is a parental-control and digital-wellness application designed to help families establish healthy screen habits. The app is installed on a child's Android device and managed by a parent or legal guardian ("Parent") through a paired account.
+Vela is an independent application developed and operated by **Kundan** ("I," "me," or "my"), an individual developer. Vela is a parental-control and digital-wellness application designed to help families establish healthy screen habits. The app is installed on a child's Android device and managed by a parent or legal guardian ("Parent") through a paired account.
 
 **Contact:**
 Developer: Kundan
@@ -26,8 +26,8 @@ Country of residence: [Your country]
 
 This policy applies to:
 
-- The Kindred Android application installed on a child's device
-- The Kindred parent dashboard (Android / iOS / Desktop)
+- The Vela Android application installed on a child's device
+- The Vela parent dashboard (Android / iOS / Desktop)
 - All data processed through our backend (Supabase) and cloud services
 
 This policy covers all users globally. Sections 10 and 11 provide additional disclosures required by the **Children's Online Privacy Protection Act (COPPA)** and **General Data Protection Regulation (GDPR)**, respectively.
@@ -36,7 +36,7 @@ This policy covers all users globally. Sections 10 and 11 provide additional dis
 
 ## 3. Who We Collect Data About
 
-Kindred processes data about two categories of people:
+Vela processes data about two categories of people:
 
 | Role | Description |
 |------|-------------|
@@ -95,7 +95,7 @@ Location data is transmitted to our servers only when a network connection is av
 
 ### 4.5 Communication Monitoring
 
-Kindred monitors on-device communications to detect contact with unapproved parties:
+Vela monitors on-device communications to detect contact with unapproved parties:
 
 | Data | How Collected | Retention |
 |------|--------------|-----------|
@@ -198,7 +198,7 @@ To exercise these rights, email **kundan06335@gmail.com** with the subject line 
 
 ## 10. COPPA Disclosure (United States)
 
-Kindred is designed to be installed **by parents on children's devices**. We take our obligations under the **Children's Online Privacy Protection Act (COPPA), 15 U.S.C. § 6501 et seq.,** and the COPPA Rule (16 C.F.R. Part 312) seriously.
+Vela is designed to be installed **by parents on children's devices**. We take our obligations under the **Children's Online Privacy Protection Act (COPPA), 15 U.S.C. § 6501 et seq.,** and the COPPA Rule (16 C.F.R. Part 312) seriously.
 
 ### 10.1 Verifiable Parental Consent
 
@@ -333,7 +333,7 @@ If you believe your data has not been handled appropriately, you may also contac
 
 ## 17. Note on Solo Developer Status
 
-Kindred is built and maintained by a single independent developer. There is no company, employees, or investors. All data handling described in this policy is performed solely by the developer and the third-party processors named in §6 (Supabase, Firebase). Your privacy rights are exercised directly with me at the contact address above.
+Vela is built and maintained by a single independent developer. There is no company, employees, or investors. All data handling described in this policy is performed solely by the developer and the third-party processors named in §6 (Supabase, Firebase). Your privacy rights are exercised directly with me at the contact address above.
 
 ---
 

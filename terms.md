@@ -3,40 +3,40 @@ layout: default
 title: Terms of Service
 ---
 
-# Kindred Sanctuary — Terms of Service
+# Vela Family — Terms of Service
 
 **Effective Date:** March 9, 2026
 **Last Updated:** March 9, 2026
 
 ---
 
-Please read these Terms of Service ("Terms") carefully before using the Kindred app. By creating an account or installing Kindred on any device, you agree to be bound by these Terms. If you do not agree, do not use the app.
+Please read these Terms of Service ("Terms") carefully before using the Vela app. By creating an account or installing Vela on any device, you agree to be bound by these Terms. If you do not agree, do not use the app.
 
 ---
 
 ## 1. Who You Are Contracting With
 
-Kindred is developed and operated by **Kundan**, an individual developer ("I," "me," or "my"). There is no company behind this app. All obligations under these Terms are mine personally.
+Vela is developed and operated by **Kundan**, an individual developer ("I," "me," or "my"). There is no company behind this app. All obligations under these Terms are mine personally.
 
 **Contact:** kundan06335@gmail.com
 
 ---
 
-## 2. What Kindred Does
+## 2. What Vela Does
 
-Kindred is a parental-control and digital-wellness application. It lets a parent or legal guardian ("Parent") install monitoring and control software on a child's Android device ("Child Device") and review activity from a parent dashboard.
+Vela is a parental-control and digital-wellness application. It lets a parent or legal guardian ("Parent") install monitoring and control software on a child's Android device ("Child Device") and review activity from a parent dashboard.
 
 Features include, but are not limited to: app blocking, screen time limits, GPS location tracking, geofencing, communication monitoring (calls, SMS, WhatsApp), YouTube activity monitoring, bedtime scheduling, exam mode, and a gamification reward system for children.
 
 ---
 
-## 3. Who May Use Kindred
+## 3. Who May Use Vela
 
-**Parents:** You must be at least 18 years old (or the age of majority in your jurisdiction, whichever is higher) to create a Kindred account. By registering, you confirm you meet this requirement.
+**Parents:** You must be at least 18 years old (or the age of majority in your jurisdiction, whichever is higher) to create a Vela account. By registering, you confirm you meet this requirement.
 
-**Children:** Children do not register for Kindred. A child uses the app on their device only after a Parent sets up a child profile. By installing Kindred on a child's device, the Parent confirms they are the child's parent or legal guardian and have the authority to consent to monitoring on the child's behalf.
+**Children:** Children do not register for Vela. A child uses the app on their device only after a Parent sets up a child profile. By installing Vela on a child's device, the Parent confirms they are the child's parent or legal guardian and have the authority to consent to monitoring on the child's behalf.
 
-Kindred is **not** intended to be used on devices belonging to adults without their knowledge or consent. Installing Kindred on another adult's device without their consent may be illegal in your jurisdiction. I am not responsible for any unlawful use.
+Vela is **not** intended to be used on devices belonging to adults without their knowledge or consent. Installing Vela on another adult's device without their consent may be illegal in your jurisdiction. I am not responsible for any unlawful use.
 
 ---
 
@@ -52,25 +52,25 @@ Kindred is **not** intended to be used on devices belonging to adults without th
 
 ## 5. Parent Responsibilities
 
-As a Parent using Kindred, you agree to:
+As a Parent using Vela, you agree to:
 
 1. **Obtain appropriate consent.** You are responsible for ensuring that installing and running monitoring software on your child's device is lawful in your jurisdiction. Laws on parental monitoring vary by country and sometimes by the child's age.
 
-2. **Inform your child.** Kindred displays a persistent notification on the child's device indicating that monitoring is active. You agree not to disable or circumvent this notification. Being transparent with your child about monitoring is your responsibility and, in some jurisdictions, a legal requirement.
+2. **Inform your child.** Vela displays a persistent notification on the child's device indicating that monitoring is active. You agree not to disable or circumvent this notification. Being transparent with your child about monitoring is your responsibility and, in some jurisdictions, a legal requirement.
 
 3. **Use monitoring data responsibly.** Data collected about your child is for your family's safety and wellness only. You agree not to share, publish, or use it for any purpose that could harm your child.
 
 4. **Keep parental credentials secure.** You are responsible for ensuring your child cannot access the parent dashboard.
 
-5. **Review and configure appropriately.** You are responsible for configuring Kindred settings in a manner appropriate to your child's age and maturity.
+5. **Review and configure appropriately.** You are responsible for configuring Vela settings in a manner appropriate to your child's age and maturity.
 
 ---
 
 ## 6. Acceptable Use
 
-You agree to use Kindred only for lawful purposes and only in the manner described in these Terms. You agree **not** to:
+You agree to use Vela only for lawful purposes and only in the manner described in these Terms. You agree **not** to:
 
-- Install Kindred on any device belonging to a person who is not your minor child, without that person's explicit informed consent
+- Install Vela on any device belonging to a person who is not your minor child, without that person's explicit informed consent
 - Attempt to reverse-engineer, decompile, or extract source code from the app
 - Attempt to bypass, disable, or interfere with any security or monitoring feature of the app
 - Use the app to stalk, harass, or surveil any person in a manner that is illegal or harmful
@@ -82,13 +82,13 @@ You agree to use Kindred only for lawful purposes and only in the manner describ
 
 ## 7. Intellectual Property
 
-Kindred, including its code, design, graphics, and content, is owned by me (Kundan) and is protected by applicable intellectual property laws. These Terms do not grant you any rights to the Kindred brand, logo, or underlying technology beyond the limited right to use the app as described herein.
+Vela, including its code, design, graphics, and content, is owned by me (Kundan) and is protected by applicable intellectual property laws. These Terms do not grant you any rights to the Vela brand, logo, or underlying technology beyond the limited right to use the app as described herein.
 
 ---
 
 ## 8. Third-Party Services
 
-Kindred integrates with third-party services including Supabase (database and authentication) and Google Firebase (crash reporting and push notifications). Your use of these services is also subject to their respective terms:
+Vela integrates with third-party services including Supabase (database and authentication) and Google Firebase (crash reporting and push notifications). Your use of these services is also subject to their respective terms:
 
 - [Supabase Terms of Service](https://supabase.com/terms)
 - [Google Terms of Service](https://policies.google.com/terms)
@@ -99,9 +99,9 @@ I am not responsible for the practices or content of third-party services.
 
 ## 9. Pricing and Payments
 
-*(Update this section based on whether Kindred is free, freemium, or subscription-based.)*
+*(Update this section based on whether Vela is free, freemium, or subscription-based.)*
 
-**If the app is currently free:** Kindred is provided free of charge during its current release period. I reserve the right to introduce paid features or a subscription model in the future. You will be notified at least 30 days before any previously free feature becomes paid.
+**If the app is currently free:** Vela is provided free of charge during its current release period. I reserve the right to introduce paid features or a subscription model in the future. You will be notified at least 30 days before any previously free feature becomes paid.
 
 **If the app uses in-app purchases or subscriptions:** Payments are processed through Google Play. All billing terms, refund rights, and subscription management are governed by Google Play's billing policies. I do not handle payment information directly. Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period through your Google Play account settings.
 
@@ -109,14 +109,14 @@ I am not responsible for the practices or content of third-party services.
 
 ## 10. Disclaimer of Warranties
 
-Kindred is provided **"as is"** and **"as available"** without any warranty of any kind, express or implied, including but not limited to:
+Vela is provided **"as is"** and **"as available"** without any warranty of any kind, express or implied, including but not limited to:
 
 - Warranties of merchantability or fitness for a particular purpose
 - Warranties that the app will be uninterrupted, error-free, or free of viruses
 - Warranties that monitoring will detect all concerning activity
 - Warranties of accuracy or completeness of any monitoring data
 
-**Kindred is a tool to assist parents — it is not a substitute for parental supervision.** No monitoring tool can guarantee your child's safety, and I make no such guarantee.
+**Vela is a tool to assist parents — it is not a substitute for parental supervision.** No monitoring tool can guarantee your child's safety, and I make no such guarantee.
 
 ---
 
@@ -126,11 +126,11 @@ To the maximum extent permitted by applicable law, I shall not be liable for:
 
 - Any indirect, incidental, special, consequential, or punitive damages
 - Loss of data, revenue, goodwill, or profits
-- Any harm arising from your child's online activity that Kindred did not detect or prevent
+- Any harm arising from your child's online activity that Vela did not detect or prevent
 - Any harm resulting from technical failures, app downtime, or data loss
-- Any damages arising from your use of, or inability to use, Kindred
+- Any damages arising from your use of, or inability to use, Vela
 
-**My total cumulative liability to you for any claims arising under these Terms shall not exceed the amount you paid for Kindred in the 12 months preceding the claim, or USD $50, whichever is greater.**
+**My total cumulative liability to you for any claims arising under these Terms shall not exceed the amount you paid for Vela in the 12 months preceding the claim, or USD $50, whichever is greater.**
 
 Some jurisdictions do not allow the exclusion of certain warranties or the limitation of certain damages. In those jurisdictions, these limitations apply only to the extent permitted by law.
 
@@ -141,24 +141,24 @@ Some jurisdictions do not allow the exclusion of certain warranties or the limit
 You agree to indemnify and hold harmless Kundan from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable legal fees) arising out of or relating to:
 
 - Your violation of these Terms
-- Your use of Kindred in a manner that is unlawful or harms a third party
+- Your use of Vela in a manner that is unlawful or harms a third party
 - Any claim by a third party (including your child, when an adult) relating to your use of monitoring features
 
 ---
 
 ## 13. Privacy
 
-Your use of Kindred is also governed by our [Privacy Policy](./index.md), which is incorporated into these Terms by reference. By agreeing to these Terms, you also agree to the Privacy Policy.
+Your use of Vela is also governed by our [Privacy Policy](./index.md), which is incorporated into these Terms by reference. By agreeing to these Terms, you also agree to the Privacy Policy.
 
 ---
 
 ## 14. Termination
 
-**By you:** You may stop using Kindred at any time by uninstalling the app and deleting your account through the app settings or by contacting me at kundan06335@gmail.com.
+**By you:** You may stop using Vela at any time by uninstalling the app and deleting your account through the app settings or by contacting me at kundan06335@gmail.com.
 
-**By me:** I may suspend or terminate your access to Kindred at any time, with or without notice, if I believe you have violated these Terms, if required by law, or if I discontinue the service. I will endeavour to give reasonable notice before discontinuing the service entirely.
+**By me:** I may suspend or terminate your access to Vela at any time, with or without notice, if I believe you have violated these Terms, if required by law, or if I discontinue the service. I will endeavour to give reasonable notice before discontinuing the service entirely.
 
-**Effect of termination:** Upon termination, your right to use Kindred ceases immediately. Sections 7, 10, 11, 12, 15, and 16 survive termination.
+**Effect of termination:** Upon termination, your right to use Vela ceases immediately. Sections 7, 10, 11, 12, 15, and 16 survive termination.
 
 ---
 
@@ -180,15 +180,15 @@ For users in the EU: The European Commission provides an [Online Dispute Resolut
 
 ## 17. Changes to These Terms
 
-I may update these Terms from time to time. If I make material changes, I will notify you by email and in-app notification at least **30 days** before the new Terms take effect. Continued use of Kindred after the effective date constitutes your acceptance of the revised Terms.
+I may update these Terms from time to time. If I make material changes, I will notify you by email and in-app notification at least **30 days** before the new Terms take effect. Continued use of Vela after the effective date constitutes your acceptance of the revised Terms.
 
-If you do not agree to the revised Terms, you must stop using Kindred and delete your account before the effective date.
+If you do not agree to the revised Terms, you must stop using Vela and delete your account before the effective date.
 
 ---
 
 ## 18. Severability and Entire Agreement
 
-If any provision of these Terms is found to be unenforceable, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will remain in full force. These Terms, together with the Privacy Policy, constitute the entire agreement between you and me regarding Kindred and supersede any prior agreements.
+If any provision of these Terms is found to be unenforceable, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will remain in full force. These Terms, together with the Privacy Policy, constitute the entire agreement between you and me regarding Vela and supersede any prior agreements.
 
 ---
 
