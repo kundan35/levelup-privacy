@@ -1,7 +1,8 @@
-title: LevelUp — Legal
-description: Privacy policy and terms of service for the LevelUp Parental Controls app
+title: Kindred Sanctuary — Legal & Help
+description: Privacy policy, terms of service, and user guide for Kindred Sanctuary
 theme: minima
 
 header_pages:
   - index.md
   - terms.md
+  - guide.md

@@ -3,7 +3,7 @@ layout: default
 title: Terms of Service
 ---
 
-# LevelUp Parental Controls — Terms of Service
+# Kindred Sanctuary — Terms of Service
 
 **Effective Date:** March 9, 2026
 **Last Updated:** March 9, 2026

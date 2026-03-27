@@ -4,7 +4,7 @@ title: Privacy Policy
 nav_order: 1
 ---
 
-# LevelUp Parental Controls — Privacy Policy
+# Kindred Sanctuary — Privacy Policy
 
 **Effective Date:** March 9, 2026
 **Last Updated:** March 9, 2026
